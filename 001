@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>h1 tag example</h1>
+    <h2>h2 tag is here</h2>
+    <p> <b>Lorem ipsum dolor,</b>  sit amet consectetur adipisicing elit. Ex ad modi hic tempore in quas consequatur dolorem quod reprehenderit minus repudiandae ut at excepturi aspernatur doloremque, dolor tempora veritatis veniam?</p>
+    <img src="logo.png" >
+    <p><u><i> Lorem ipsum dolor sit</i></u> amet consectetur adipisicing elit. Debitis iusto tempora sed iure eligendi repellat pariatur recusandae ullam rem earum facilis corporis dignissimos iste nihil sapiente a quia porro voluptatem odit aspernatur, consectetur voluptas fuga exercitationem similique? Excepturi illo ut minus sapiente autem, sed possimus dolores omnis! Et, facilis dolore. Nulla veritatis asperiores reprehenderit doloremque suscipit velit omnis voluptatem deleniti.</p>
+
+    <p>
+        This is line one. 
+        <br> <br> <br> <br>
+        This is line two.
+        <hr>
+        <br>
+        This is line three.
+        <br>
+    </p>
+</body>
+</html>
